@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "sass/styles.scss",
-  "dependencies": {
-    "bulma": "^0.9.1",
-    "bulma-carousel": "^4.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.14.1"
   },
